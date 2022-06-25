@@ -28,7 +28,7 @@ legible code! (❦ ᴗ ❦ ✿)
         type `node BellaInterpreter.js [file_name]`
         * Note: There is already a file called `example.b` that includes a sample Bella program commented out. Pick and choose which lines you want to run and see their expected output. 
         Or you can simply explore and write your own samples in the same file, or a new one. The choice is yours! (◠‿◠✿)
-* `example.b`
+* `example.bella`
     * As mentioned in the above note, this is where the commented out ~~tester~~ sample code, created as ~~a poor alternative to writing an actual tester because I am lazy~~ an example for new users to get a feel for the language.
 
 ## About Bella

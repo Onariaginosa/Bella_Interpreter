@@ -1,4 +1,4 @@
-# BellaInterpreter
+# Bella Interpreter
 This project uses nodejs to interpret the language Bella. Please note that I did not write said language, only the interpreter.
 
 ## Installation instruction

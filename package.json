@@ -1,0 +1,24 @@
+{
+  "name": "bellainterpreter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "interpreter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onariaginosa/BellaInterpreter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onariaginosa/BellaInterpreter/issues"
+  },
+  "homepage": "https://github.com/Onariaginosa/BellaInterpreter#readme",
+  "dependencies": {
+    "ohm-js": "^16.3.4"
+  }
+}

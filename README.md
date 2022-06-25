@@ -7,7 +7,7 @@ If you do not have npm or node installed please use a search engine to find the 
 
 Please be sure to do an `npm install` once you have cloned a fresh repository.
 
-If it is not working try running the command `npm install ohm.js` and then `npm install` again.
+If it is not working try running the command `npm install ohm.js`.
 
 If that doesn't work then . . . I'm not sure what to tell yah  (´◕ ᵔ ◕`✿)*ᶜʳᶦᵉˢ*
 

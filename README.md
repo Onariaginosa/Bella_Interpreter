@@ -16,16 +16,12 @@ So everything is pretty much located within the `src` folder. But below shall be
 legible code! (❦ ᴗ ❦ ✿)
 
 * `Bella.ohm`
-
     * This is where the Ohm grammar for the language Bella lives
-
         * (Once again I did not write this)
-
 * `BellaInterpreter.js`
     * This is where the interpreter for Bella lives
         * I wrote this, however it is loosely based on [Dr. Ray Toal's Astro Interpreter](`https://cs.lmu.edu/~ray/notes/introohm/`)
-    * To run the interpreter on your own code go into the `src` folder on the command line and
-        type `node BellaInterpreter.js [file_name]`
+    * To run the interpreter on your own code go into the `src` folder on the command line and type `node BellaInterpreter.js [file_name]`
         * Note: There is already a file called `example.b` that includes a sample Bella program commented out. Pick and choose which lines you want to run and see their expected output. 
         Or you can simply explore and write your own samples in the same file, or a new one. The choice is yours! (◠‿◠✿)
 * `example.bella`
